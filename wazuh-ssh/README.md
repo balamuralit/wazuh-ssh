@@ -11,19 +11,6 @@ The project includes examining predefined Wazuh rules, verifying SSH service sta
 
 ---
 
-## Repository Structure
-
-├── screenshots/
-│ ├── wazuh-dashboard.png
-│ ├── predefined-rule.png
-│ ├── sshd-status.png
-│ ├── local-rule.png
-│ ├── triggered-alert.png
-└── README.md
-
-
----
-
 ## Project Objectives
 
 - Understand how Wazuh detects SSH login failures  
