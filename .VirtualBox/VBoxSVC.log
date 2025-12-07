@@ -1,0 +1,93 @@
+00:00:00.022346 main     VirtualBox COM Server 7.1.10 r169112 win.amd64 (Jun  3 2025 13:11:30) release log
+00:00:00.022352 main     Log opened 2025-12-07T07:48:52.755888900Z
+00:00:00.022354 main     Build Type: release
+00:00:00.022370 main     OS Product: Windows 11
+00:00:00.022372 main     OS Release: 10.0.26100
+00:00:00.022373 main     OS Service Pack: 
+00:00:00.199727 main     DMI Product Name: Victus by HP Gaming Laptop 15-fa2xxx
+00:00:00.249629 main     DMI Product Version:  
+00:00:00.249668 main     Firmware type: UEFI
+00:00:00.252267 main     Secure Boot: Enabled
+00:00:00.252304 main     Host RAM: 16013MB (15.6GB) total, 5040MB (4.9GB) available
+00:00:00.252318 main     Executable: C:\Program Files\Oracle\VirtualBox\VBoxSVC.exe
+00:00:00.252320 main     Process ID: 16620
+00:00:00.252321 main     Package type: WINDOWS_64BITS_GENERIC
+00:00:00.252352 main     Windows Features:
+00:00:00.252354 main       Core Isolation (Memory Integrity): ENABLED
+00:00:00.577083          VirtualBox: object creation starts
+00:00:00.577439          Home directory: 'C:\Users\Balamurali\.VirtualBox'
+00:00:00.577647          Installed Drivers:
+00:00:00.592357          Loading settings file "C:\Users\Balamurali\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.606560          usbLibGetDevices: Starting USB device enumeration
+00:00:00.650279          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&28b1972a&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 6
+00:00:00.650398          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&28b1972a&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 7
+00:00:00.654667          usbLibGetDevices: Found 2 USB devices, 0 captured
+00:00:00.654746          USB: Unknown USB device detected (idVendor: 0x04f2, idProduct: 0xb766)
+00:00:00.654804          USB: Unknown USB device detected (idVendor: 0x0bda, idProduct: 0xb86a)
+00:00:00.916658          netIfIsWireless: CreateFile on '\\.\{9B95C54E-C275-42F5-B3E8-567ACA72039F}' failed with rcWin=2 (0x2) - ignoring
+00:00:00.917835          netIfIsWireless: CreateFile on '\\.\{91EA87EC-0754-4330-819E-864CE3D82239}' failed with rcWin=2 (0x2) - ignoring
+00:00:00.928225          HostDnsMonitor: initializing
+00:00:00.951245          HostDnsMonitor: updating information
+00:00:00.951282          HostDnsMonitor: old information
+00:00:00.951282            no server entries
+00:00:00.951283            no domain set
+00:00:00.951284            no search string entries
+00:00:00.951284          HostDnsMonitor: new information
+00:00:00.951285            server 1: 8.8.8.8
+00:00:00.951286            server 2: 4.4.4.4
+00:00:00.951286            no domain set
+00:00:00.951286            no search string entries
+00:00:00.954754          VD: VDInit finished with VINF_SUCCESS
+00:00:00.956071          Platform architecture set to 'x86'
+00:00:00.956822          Loading settings file "C:\Users\Balamurali\VirtualBox VMs\New group\Kali\Kali.vbox" with version "1.19-windows"
+00:00:00.957249          Platform architecture set to 'x86'
+00:00:00.957606          Platform architecture set to 'x86'
+00:00:00.958113          Loading settings file "C:\Users\Balamurali\VirtualBox VMs\New group\windows_\windows_.vbox" with version "1.19-windows"
+00:00:00.958329          Platform architecture set to 'x86'
+00:00:00.960365          VirtualBox: object created
+00:00:01.345621          Saving settings file "C:\Users\Balamurali\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:01.392713          Finished saving settings file "C:\Users\Balamurali\.VirtualBox\VirtualBox.xml"
+00:00:01.393185          Saving settings file "C:\Users\Balamurali\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:01.398109          Finished saving settings file "C:\Users\Balamurali\.VirtualBox\VirtualBox.xml"
+00:00:01.398590          Saving settings file "C:\Users\Balamurali\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:01.406268          Finished saving settings file "C:\Users\Balamurali\.VirtualBox\VirtualBox.xml"
+00:00:02.890733          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:00:03.076990          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:00:09.184047          Platform architecture set to 'x86'
+00:00:09.195755          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:00:09.403954          netIfIsWireless: CreateFile on '\\.\{9B95C54E-C275-42F5-B3E8-567ACA72039F}' failed with rcWin=2 (0x2) - ignoring
+00:00:09.404976          netIfIsWireless: CreateFile on '\\.\{91EA87EC-0754-4330-819E-864CE3D82239}' failed with rcWin=2 (0x2) - ignoring
+00:00:09.459002          netIfIsWireless: CreateFile on '\\.\{9B95C54E-C275-42F5-B3E8-567ACA72039F}' failed with rcWin=2 (0x2) - ignoring
+00:00:09.459823          netIfIsWireless: CreateFile on '\\.\{91EA87EC-0754-4330-819E-864CE3D82239}' failed with rcWin=2 (0x2) - ignoring
+00:00:10.469985          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:00:10.537208          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:00:25.547301          Platform architecture set to 'x86'
+00:00:25.791023          Saving settings file "C:\Users\Balamurali\VirtualBox VMs\New group\Kali\Kali.vbox" with version "1.19-windows"
+00:00:25.842398          Finished saving settings file "C:\Users\Balamurali\VirtualBox VMs\New group\Kali\Kali.vbox"
+00:00:25.989908          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:00:26.001456          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:00:27.614037          Launched VM: 2926300800 pid: 24864 (0x6120) frontend: GUI/Qt name: Kali
+00:00:27.705641          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:00:27.739821          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:00:39.471813          Platform architecture set to 'x86'
+00:00:39.929321          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:00:39.963372          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:00:42.505798          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+00:00:42.754438          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={bea3ef5c-de2f-4b74-aa3a-15d6249371a0} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:00:56.059108          netIfIsWireless: CreateFile on '\\.\{9B95C54E-C275-42F5-B3E8-567ACA72039F}' failed with rcWin=2 (0x2) - ignoring
+00:00:56.063695          netIfIsWireless: CreateFile on '\\.\{91EA87EC-0754-4330-819E-864CE3D82239}' failed with rcWin=2 (0x2) - ignoring
+00:00:57.589802          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:00:57.849818          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is Starting)}, preserve=false aResultDetail=0
+00:00:57.866918          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={bea3ef5c-de2f-4b74-aa3a-15d6249371a0} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:00:58.163615          netIfIsWireless: CreateFile on '\\.\{9B95C54E-C275-42F5-B3E8-567ACA72039F}' failed with rcWin=2 (0x2) - ignoring
+00:00:58.168884          netIfIsWireless: CreateFile on '\\.\{91EA87EC-0754-4330-819E-864CE3D82239}' failed with rcWin=2 (0x2) - ignoring
+00:01:01.980479          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={7d510820-a678-4730-a862-818dcd3fbed0} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
+00:01:01.984568          HostDnsMonitorProxy::GetDomainName: no domain set
+00:01:01.985181          HostDnsMonitorProxy::GetNameServers:
+00:01:01.985245            name server 1: 8.8.8.8
+00:01:01.985268            name server 2: 4.4.4.4
+00:01:01.985565          HostDnsMonitorProxy::GetSearchStrings:
+00:01:01.985600            no search string entries
+00:01:02.724590          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={bea3ef5c-de2f-4b74-aa3a-15d6249371a0} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:01:03.305127          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:01:03.453281          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is Running)}, preserve=false aResultDetail=0

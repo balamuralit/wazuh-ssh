@@ -1,0 +1,21 @@
+00:00:01.897932 VirtualBox GUI VM Selector Window 7.1.10 r169112 win.amd64 (Jun  3 2025 13:11:30) release log
+00:00:01.897935 Log opened 2025-12-07T07:48:53.969512400Z
+00:00:01.897935 Build Type: release
+00:00:01.897938 OS Product: Windows 11
+00:00:01.897939 OS Release: 10.0.26100
+00:00:01.897940 OS Service Pack: 
+00:00:01.947608 DMI Product Name: Victus by HP Gaming Laptop 15-fa2xxx
+00:00:01.968246 DMI Product Version:  
+00:00:01.968275 Firmware type: UEFI
+00:00:01.969377 Secure Boot: Enabled
+00:00:01.969393 Host RAM: 16013MB (15.6GB) total, 5041MB (4.9GB) available
+00:00:01.969401 Executable: C:\Program Files\Oracle\VirtualBox\VirtualBox.exe
+00:00:01.969402 Process ID: 10696
+00:00:01.969403 Package type: WINDOWS_64BITS_GENERIC
+00:00:01.969404 Windows Features:
+00:00:01.969405   Core Isolation (Memory Integrity): ENABLED
+00:00:01.969714 Qt version: 6.5.3
+00:00:01.972444 GUI: UIMediumEnumerator: Initial medium-enumeration finished!
+00:00:02.136538 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:03.222029 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:26.597879 GUI: UIMediumEnumerator: Medium-enumeration finished!

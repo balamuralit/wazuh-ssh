@@ -1,0 +1,103 @@
+{
+	"motd": {
+		"cloudBuildErrorAfter": 1594252800000,
+		"cloudBuildWarnAfter": 1590019200000,
+		"defaultNode10After": 1594252800000,
+		"minVersion": "3.0.5",
+		"node8DeploysDisabledAfter": 1613390400000,
+		"node8RuntimeDisabledAfter": 1615809600000,
+		"node8WarnAfter": 1600128000000,
+		"fetched": 1763300184051
+	},
+	"gemini": false,
+	"activeProjects": {
+		"C:\\Users\\Balamurali\\clipboard-chaos": "default",
+		"C:\\Users\\Balamurali\\chronos-cipher": "fractured-chronos-matrix",
+		"C:\\Users\\Balamurali\\jwt-hard-challenge": "revoked-but-not-forgotten",
+		"C:\\Users\\Balamurali\\robots-ctf": "robots-cant-see-me",
+		"C:\\Users\\Balamurali\\protocol-ctf": "protocol-override-challenge",
+		"C:\\Users\\Balamurali\\protocol-override": "protocol-override-acec5",
+		"C:\\Users\\Balamurali\\infinite-loop-trap": "infinite-loop-trap",
+		"C:\\Users\\Balamurali\\lost-in-the-void": "lost-in-the-void",
+		"C:\\Users\\Balamurali\\shadow-shot": "shadow-shot"
+	},
+	"apiEnablementCache": {
+		"clipboard-chaos": {
+			"runtimeconfig.googleapis.com": true,
+			"cloudfunctions.googleapis.com": true,
+			"cloudresourcemanager.googleapis.com": true
+		},
+		"clipboard-chaos-49a84": {
+			"cloudresourcemanager.googleapis.com": true,
+			"runtimeconfig.googleapis.com": true,
+			"cloudfunctions.googleapis.com": true,
+			"cloudbuild.googleapis.com": true,
+			"artifactregistry.googleapis.com": true,
+			"firebaseextensions.googleapis.com": true
+		},
+		"revoked-but-not-forgotten": {
+			"runtimeconfig.googleapis.com": true,
+			"cloudfunctions.googleapis.com": true,
+			"cloudresourcemanager.googleapis.com": true
+		},
+		"protocol-override-challenge": {
+			"runtimeconfig.googleapis.com": true,
+			"cloudfunctions.googleapis.com": true,
+			"cloudresourcemanager.googleapis.com": true
+		},
+		"protocol-override-acec5": {
+			"runtimeconfig.googleapis.com": true,
+			"cloudfunctions.googleapis.com": true,
+			"cloudresourcemanager.googleapis.com": true,
+			"cloudbuild.googleapis.com": true,
+			"artifactregistry.googleapis.com": true,
+			"firebaseextensions.googleapis.com": true
+		},
+		"shadow-shot": {
+			"cloudresourcemanager.googleapis.com": true
+		}
+	},
+	"additionalAccounts": [],
+	"activeAccounts": {},
+	"emulator-analytics-clientId": "978834fe-505a-4a6f-83ec-e678334dcbf9",
+	"adminsdkconfig": {
+		"revoked-but-not-forgotten": {
+			"projectId": "revoked-but-not-forgotten",
+			"storageBucket": "revoked-but-not-forgotten.firebasestorage.app"
+		}
+	},
+	"webconfig": {
+		"revoked-but-not-forgotten": {
+			"projectId": "revoked-but-not-forgotten",
+			"storageBucket": "revoked-but-not-forgotten.firebasestorage.app",
+			"apiKey": "AIzaSyAcQfGY-GmsKS8JmAhtyUNJ2LhTQEaOJs8",
+			"authDomain": "revoked-but-not-forgotten.firebaseapp.com",
+			"messagingSenderId": "327371776707",
+			"projectNumber": "327371776707",
+			"version": "2"
+		}
+	},
+	"usage": true,
+	"analytics-uuid": "c17e64c9-26ab-412b-9eb1-d08c1dabaf70",
+	"user": {
+		"iss": "accounts.google.com",
+		"azp": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"aud": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"sub": "114746335443842132827",
+		"email": "balamuralit.github@gmail.com",
+		"email_verified": true,
+		"at_hash": "YdcfJAMBUlpDVfll_TfrNw",
+		"iat": 1762708170,
+		"exp": 1762711770
+	},
+	"tokens": {
+		"expires_at": 1763303782791,
+		"refresh_token": "1//0gqdxffYShKo3CgYIARAAGBASNwF-L9IrA-V8Ow9XkWlD4BrhZOLO8oimn26vuSVFPOu5MFlwLAmGpCq2ASqr4NDpm415pXLnAe4",
+		"scopes": [],
+		"access_token": "ya29.a0ATi6K2uoM-gBb9KItfnjR0SPe7Sr6wrSwPwi2e9muTG2zH_C5p11ObXvlQSEovazawMrpZZPGY7S6mgdmIL0YIoTuvbd4CwHUPsEY1kJALhOPJKe1LZEU_RY9QLz-DFaYIJJQHPhFpD_F31o1FZO5HGlAGtlf_DBXPbFanJ1LxgDpcYLLEtHjUvPaKfJ5iu7lqX6oOJYupHX_gaCgYKAboSARQSFQHGX2MidkEttJ7xO0FdIEcth-FRAA0213",
+		"expires_in": 3599,
+		"scope": "https://www.googleapis.com/auth/cloudplatformprojects.readonly openid https://www.googleapis.com/auth/firebase https://www.googleapis.com/auth/userinfo.email https://www.googleapis.com/auth/cloud-platform",
+		"token_type": "Bearer",
+		"id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjRmZWI0NGYwZjdhN2UyN2M3YzQwMzM3OWFmZjIwYWY1YzhjZjUyZGMiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJhY2NvdW50cy5nb29nbGUuY29tIiwiYXpwIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwiYXVkIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwic3ViIjoiMTE0NzQ2MzM1NDQzODQyMTMyODI3IiwiZW1haWwiOiJiYWxhbXVyYWxpdC5naXRodWJAZ21haWwuY29tIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsImF0X2hhc2giOiIwcWhTYXRpWnYtU2V0WnpySzdicVVRIiwiaWF0IjoxNzYzMzAwMTgzLCJleHAiOjE3NjMzMDM3ODN9.s_m9BtysKVA15d3yitT5xEPO28ZFm74QlW7VD4pAkGraXxGOY2Zpip8tUK9fn8Gb1PgrZ4rnoy1VbmM9BQ9y8O5lG96e3Tem4NZObk7bF2Dq0MC2vLGM1jqBDjpteccT-iFtSSq1RVTizouBb49YnBNeVbhdYkI1jXBtgJ0ln4Ozh-DxcvHA2PcH3E_mRjgVC25AQ-fJdpUPMx2To6O98dXbBjKqvqNp34xEgIG5jDoMIgPyzDpwxgHW487XdRhXFftB9jnTUifD2-z0MCAoMpK7blOUN12_N1V1odmOtThOfJdPiqD3pUSdaIMyecsIrE8oWiIWScDcBASs4bRt7g"
+	}
+}
